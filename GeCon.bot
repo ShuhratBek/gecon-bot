@@ -1,0 +1,61 @@
+{
+  "name": "GeCon",
+  "padlock": "2Gs14oLbT5xZF9ZJtq7cpg==!3sX5N1FeGLt82gKm5QgYVO7vjoexM6127o/WHmwktVjEAFsqq/GDtmEicGiRqs2u",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "0cfbdd57-0340-4c6d-a3f0-91c618995c6e",
+      "resourceGroup": "ldi-bots",
+      "serviceName": "GeCon",
+      "type": "abs",
+      "name": "GeCon",
+      "id": "1"
+    },
+    {
+      "connectionString": "K21HKItBIRqDiIH0bf08ag==!puompv+f43LlVfupzQadU/4c+WLsV4VMCD7kXFLgd1kLPjv2nsqkYo75oXMWbRe60dbKeE+N5OZ1hrsvmvSMc4Ioihwq8Xrxv27UAGjYKj7/tOyUhRYVc5ow2RSHk8ekvIrTqu2fd5xugAePaR+ZlJvnRETiQY2uKM5CnesLpqapKNIbIBl5W0J+Tx0uOpGu9WGJALyBWb5blQiEY5lmMA==",
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "0cfbdd57-0340-4c6d-a3f0-91c618995c6e",
+      "resourceGroup": "ldi-bots",
+      "serviceName": "gecon9c11",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "f1275b35-10be-4f06-8f6e-c7dbfb045960",
+      "appPassword": "AcZbHuBMCwJSvjNfisg4Sw==!NWnZysHA3L9KYrndvLORMpUnS84xpNaGFPTyQlnPzS0=",
+      "endpoint": "https://gecon-bot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "YlDkjLm97F3RW7OVoLiaVA==!R5nxRxrPdtTtnuqYjJjgTsfcTV6Q3+zpXUQbL4G75Ksl9C3w1QBT0oI8n3S/4pxz",
+      "applicationId": "6abdf493-0a88-45f6-afbc-e7d548b594ea",
+      "apiKeys": {},
+      "tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d",
+      "subscriptionId": "0cfbdd57-0340-4c6d-a3f0-91c618995c6e",
+      "resourceGroup": "ldi-bots",
+      "serviceName": "GeConmnwdwm",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "b887c062-a270-46d8-b837-6ec02247b54f",
+      "authoringKey": "NfNMIzo6k6cUYC9LuGzRbA==!qlgELZw07yWAfc1mHhV4v99ciZepvHO5xc5wvt2w0wfsqlFwdfmc92fu77jdJtNZ",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+    "type": "AdaptiveCard",
+    "horizontalAlignment": "Center",
+    "separator": true,
+    "height": "stretch",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "horizontalAlignment": "Center",
+            "spacing": "large",
+            "height": "stretch",
+            "columns": [
+                {
+                    "type": "Column",
+                    "spacing": "large",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "size": "extraLarge",
+                            "weight": "bolder",
+                            "text": "GeCon Bot"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "size": "Medium",
+                            "text": "Привет, я бот GeCon! Как я могу помочь вам? выберите из меню или отправьте мне текст \"помощь\"",
+                            "wrap": true
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "spacing": "small",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "horizontalAlignment": "center",
+                            "url": "https://d3373sevsv1jc.cloudfront.net/uploads/production/event_page_part/1106/56EE144A6EC74FED8D699BE684BE1BEE.png",
+                            "size": "medium"
+                        }
+                    ],
+                    "width": "auto"
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

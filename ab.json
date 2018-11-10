@@ -1,0 +1,270 @@
+{
+  "contentType": "application/vnd.microsoft.card.adaptive",
+  "content": {
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Регистрация",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T06:00:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Keynote",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T07:00:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Our Journey: Trails and Turbulence",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T07:30:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Кофе-брейк",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T08:30:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Architecture Transformation",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T09:00:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Building Trustful Relationship with Client",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T10:20:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Кофе-брейк",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T11:20:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "TelescopeAI Story",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T11:40:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Silverbullets of JavaScript or why JavaScript is Everywhere",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T13:00:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Кофе-брейк",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T14:00:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Быстрая разработка корпоративных мобильных приложений на базе SAP Cloud Platform",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T14:20:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "SAP Cloud Platform как средство быстрых инноваций для S/4HANA",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T14:55:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      },
+      {
+        "type": "Column",
+        "width": "auto",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Closing Ceremony",
+            "weight": "bolder",
+            "size": "medium"
+          },
+          {
+            "type": "TextBlock",
+            "spacing": "none",
+            "text": "2018-11-10T15:25:00.000Z",
+            "isSubtle": true,
+            "wrap": true,
+            "size": "small"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1346 @@
+[
+  {
+    "title": "все потоки",
+    "color": "dark-gray",
+    "items": [
+      {
+        "date": "2018-11-10T07:00:00.000Z",
+        "title": "Keynote",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2788,
+            "name": "Sergey Ageenko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2788/2018-10-26_13-16-34.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2788/thumb_2018-10-26_13-16-34.png",
+            "company": "EPAM",
+            "job_position": "Senior Software Engineering Manager",
+            "company_and_title": "EPAM, Senior Software Engineering Manager"
+          },
+          {
+            "id": 887,
+            "name": "Artur Belski",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/artur.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/thumb_artur.jpg",
+            "company": "EPAM,Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM,Belarus, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "Keynotes"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T07:30:00.000Z",
+        "title": "Our Journey: Trails and Turbulence",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2001,
+            "name": "Sergei Kazhamiakin",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2001/2018-10-09_14-36-04.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2001/thumb_2018-10-09_14-36-04.png",
+            "company": "ITSupportMe",
+            "job_position": "Head of BA Department",
+            "company_and_title": "ITSupportMe, Head of BA Department"
+          },
+          {
+            "id": 2051,
+            "name": "Andy Lovatt",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2051/2018-10-12_13-07-21.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2051/thumb_2018-10-12_13-07-21.png",
+            "company": "External Market",
+            "job_position": "Director of Product",
+            "company_and_title": "External Market, Director of Product"
+          }
+        ],
+        "topics": [
+          "Customer",
+          "Customer Satisfaction",
+          "Real BA"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T07:40:00.000Z",
+        "title": "Agile Transformation of Teams",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 889,
+            "name": "Almaz Chanachev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/889/almaz.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/889/thumb_almaz.jpg",
+            "company": "EPAM",
+            "job_position": "Project Manager",
+            "company_and_title": "EPAM, Project Manager"
+          },
+          {
+            "id": 887,
+            "name": "Artur Belski",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/artur.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/thumb_artur.jpg",
+            "company": "EPAM,Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM,Belarus, Lead Software Engineer"
+          },
+          {
+            "id": 890,
+            "name": "Ivan Spresov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/890/ivan.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/890/thumb_ivan.jpg",
+            "company": "EPAM",
+            "job_position": "Software Engineering Team Leader",
+            "company_and_title": "EPAM, Software Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Agile",
+          "Teams"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T07:40:00.000Z",
+        "title": "Building Microservice-Oriented Applications with .NET Core",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 905,
+            "name": "Aliaksei Harshkalep",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/905/ffo.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/905/thumb_ffo.jpg",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          ".Net",
+          "Applications",
+          "Microservice"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Architecture Transformation",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 579,
+            "name": "Andrei Kavaleu",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/2018-08-14_16-07-49.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/thumb_2018-08-14_16-07-49.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          },
+          {
+            "id": 2052,
+            "name": "Navinder Marwaha",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2052/2018-10-12_13-09-57.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2052/thumb_2018-10-12_13-09-57.png",
+            "company": "External Market",
+            "job_position": "Distinguished Architect",
+            "company_and_title": "External Market, Distinguished Architect"
+          }
+        ],
+        "topics": [
+          "Architecture"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Engineering Excellence Pills for Sick Delivery",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2060,
+            "name": "Aliaksandr Dranitsa",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2060/2018-10-12_17-04-34.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2060/thumb_2018-10-12_17-04-34.png",
+            "company": "EPAM",
+            "job_position": "Director, Delivery Management",
+            "company_and_title": "EPAM, Director, Delivery Management"
+          }
+        ],
+        "topics": [
+          "Architecture"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Reactive Applications with Vert.x.",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2008,
+            "name": "Dzianis Shybeka",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2008/2018-10-12_13-46-13.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2008/thumb_2018-10-12_13-46-13.png",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "Applications"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "Building Trustful Relationship with Client",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2053,
+            "name": "Dave Hulse",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2053/2018-10-12_13-12-13.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2053/thumb_2018-10-12_13-12-13.png",
+            "company": "External Market",
+            "job_position": "Principal Engineer",
+            "company_and_title": "External Market, Principal Engineer"
+          },
+          {
+            "id": 2355,
+            "name": "Dmitry Dolnikov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2355/2018-10-26_14-04-10.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2355/thumb_2018-10-26_14-04-10.png",
+            "company": "EPAM",
+            "job_position": "Delivery Manager",
+            "company_and_title": "EPAM, Delivery Manager"
+          },
+          {
+            "id": 2005,
+            "name": "Aliaksei Antonenko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2005/2018-10-09_15-33-20.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2005/thumb_2018-10-09_15-33-20.png",
+            "company": "EPAM, Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Belarus, Lead Software Engineer"
+          },
+          {
+            "id": 2004,
+            "name": "Yana Larchyk",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2004/2018-10-09_15-33-39.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2004/thumb_2018-10-09_15-33-39.png",
+            "company": "EPAM, Belarus",
+            "job_position": "Business Analyst",
+            "company_and_title": "EPAM, Belarus, Business Analyst"
+          },
+          {
+            "id": 2003,
+            "name": "Oksana Somava",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2003/2018-10-09_15-25-44.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2003/thumb_2018-10-09_15-25-44.png",
+            "company": "EPAM Belarus",
+            "job_position": "Senior Business Analyst",
+            "company_and_title": "EPAM Belarus, Senior Business Analyst"
+          }
+        ],
+        "topics": [
+          "Customer",
+          "Customer Satisfaction",
+          "Real BA"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "AEM and Single Page Applications (SPAs)",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2099,
+            "name": "Siarhei Kamenchuk",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2099/2018-10-15_12-13-03.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2099/thumb_2018-10-15_12-13-03.png",
+            "company": "EPAM",
+            "job_position": "Software Engineering Team Leader",
+            "company_and_title": "EPAM, Software Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Applications"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "HA Patterns and Practices in Azure",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2905,
+            "name": "Viktar Vedmich",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2905/2018-10-29_17-17-36.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2905/thumb_2018-10-29_17-17-36.png",
+            "company": "EPAM",
+            "job_position": "Systems Engineering Team Leader",
+            "company_and_title": "EPAM, Systems Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Cloud"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "TelescopeAI Story",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 27,
+            "name": "Iryna Miranos",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/27/2018-10-12_14-56-40.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/27/thumb_2018-10-12_14-56-40.png",
+            "company": "EPAM",
+            "job_position": "Business Analysis Team Leader",
+            "company_and_title": "EPAM, Business Analysis Team Leader"
+          }
+        ],
+        "topics": [
+          "Telescope"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "Новые подходы к управлению проектами на базе ПО SAP",
+        "is_speech": true,
+        "duration": "30 мин ",
+        "duration_min": 30,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2103,
+            "name": "Kristina Koronevich",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2103/2018-10-15_13-22-56.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2103/thumb_2018-10-15_13-22-56.png",
+            "company": "EPAM",
+            "job_position": "Senior Functional Consultant",
+            "company_and_title": "EPAM, Senior Functional Consultant"
+          }
+        ],
+        "topics": [
+          "SAP"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "Principles of Quality in Mobile Solutions",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 1106,
+            "name": "Elvin Rakhmankulov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1106/2018-10-12_14-57-44.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1106/thumb_2018-10-12_14-57-44.png",
+            "company": "EPAM",
+            "job_position": "Director, Technology Solutions",
+            "company_and_title": "EPAM, Director, Technology Solutions"
+          },
+          {
+            "id": 708,
+            "name": "Viktor Knyshev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/708/Screen_Shot_2018-10-16_at_22.55.58.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/708/thumb_Screen_Shot_2018-10-16_at_22.55.58.png",
+            "company": "EPAM",
+            "job_position": "Software Testing Team Leader",
+            "company_and_title": "EPAM, Software Testing Team Leader"
+          }
+        ],
+        "topics": [
+          "Mobile"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T12:15:00.000Z",
+        "title": "Smart Advertising with IoT Cloud",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2105,
+            "name": "Anatol Kukel",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2105/2018-10-15_13-26-04.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2105/thumb_2018-10-15_13-26-04.png",
+            "company": "EPAM",
+            "job_position": "Lead Functional Consultant",
+            "company_and_title": "EPAM, Lead Functional Consultant"
+          },
+          {
+            "id": 2106,
+            "name": "Aliaksandr Adzerykha",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2106/2018-10-15_13-27-43.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2106/thumb_2018-10-15_13-27-43.png",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "SAP"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Silverbullets of JavaScript or why JavaScript is Everywhere",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2070,
+            "name": "Andrei Staravoitau",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2070/2018-10-23_14-48-05.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2070/thumb_2018-10-23_14-48-05.png",
+            "company": "EPAM",
+            "job_position": "Software Engineer",
+            "company_and_title": "EPAM, Software Engineer"
+          }
+        ],
+        "topics": [
+          "Javascript"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Story Mapping. How to Improve Communications between Business Analyst and Development Team",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 886,
+            "name": "Anastasiya Belskaya",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/886/belskaya.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/886/thumb_belskaya.jpg",
+            "company": "EPAM",
+            "job_position": "Senior Business Analyst",
+            "company_and_title": "EPAM, Senior Business Analyst"
+          },
+          {
+            "id": 1999,
+            "name": "Nikolai Novik",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1999/2018-10-09_14-08-40.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1999/thumb_2018-10-09_14-08-40.png",
+            "company": "EPAM",
+            "job_position": "Lead Business Analyst",
+            "company_and_title": "EPAM, Lead Business Analyst"
+          }
+        ],
+        "topics": [
+          "Communication",
+          "Teams"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Demystifying Complexity of Data Science",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2010,
+            "name": "Vadzim Yermakou,  Ph.D.",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2010/2018-10-12_13-48-59.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2010/thumb_2018-10-12_13-48-59.png",
+            "company": "Godel Technologies, Europe Ltd",
+            "job_position": "Senior Machine Learning Engineer",
+            "company_and_title": "Godel Technologies, Europe Ltd, Senior Machine Learning Engineer"
+          }
+        ],
+        "topics": [
+          "Data Science",
+          "Machine Learning"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "Быстрая разработка корпоративных мобильных приложений на базе SAP Cloud Platform",
+        "is_speech": true,
+        "duration": "30 мин ",
+        "duration_min": 30,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2056,
+            "name": "Дмитрий Фридлянд",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2056/2018-10-15_13-30-35.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2056/thumb_2018-10-15_13-30-35.png",
+            "company": "EPAM",
+            "job_position": "Head of SAP Competency Center",
+            "company_and_title": "EPAM, Head of SAP Competency Center"
+          }
+        ],
+        "topics": [
+          "Applications",
+          "Cloud",
+          "Platform",
+          "SAP"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "Connected Cars Deployment Platform",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2000,
+            "name": "Sergey Prokofiev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2000/2018-10-09_14-20-16.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2000/thumb_2018-10-09_14-20-16.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          }
+        ],
+        "topics": [
+          "Platform"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "How to Make Bots on Microsoft Bot Framework",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 1560,
+            "name": "Shukhratbek Mamadaliev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1560/2018-10-12_14-05-31.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1560/thumb_2018-10-12_14-05-31.png",
+            "company": "EPAM",
+            "job_position": "Senior Software Engineer",
+            "company_and_title": "EPAM, Senior Software Engineer"
+          }
+        ],
+        "topics": [
+          "Bot",
+          "Framework",
+          "Microsoft"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T14:55:00.000Z",
+        "title": "SAP Cloud Platform как средство быстрых инноваций для S/4HANA",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2107,
+            "name": "Aliaksandr Shchurko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2107/2018-10-15_13-36-29.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2107/thumb_2018-10-15_13-36-29.png",
+            "company": "EPAM",
+            "job_position": "Software Engineering Manager",
+            "company_and_title": "EPAM, Software Engineering Manager"
+          }
+        ],
+        "topics": [
+          "Cloud",
+          "Platform",
+          "SAP"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T15:25:00.000Z",
+        "title": "Closing Ceremony",
+        "is_speech": true,
+        "duration": "35 мин ",
+        "duration_min": 35,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 579,
+            "name": "Andrei Kavaleu",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/2018-08-14_16-07-49.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/thumb_2018-08-14_16-07-49.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          }
+        ],
+        "topics": [
+          "Keynotes"
+        ],
+        "color": "raspberry"
+      }
+    ]
+  },
+  {
+    "title": "communicate",
+    "color": "raspberry",
+    "items": [
+      {
+        "date": "2018-11-10T06:00:00.000Z",
+        "title": "Регистрация",
+        "is_speech": false,
+        "duration": "1 ч "
+      },
+      {
+        "date": "2018-11-10T07:00:00.000Z",
+        "title": "Keynote",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2788,
+            "name": "Sergey Ageenko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2788/2018-10-26_13-16-34.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2788/thumb_2018-10-26_13-16-34.png",
+            "company": "EPAM",
+            "job_position": "Senior Software Engineering Manager",
+            "company_and_title": "EPAM, Senior Software Engineering Manager"
+          },
+          {
+            "id": 887,
+            "name": "Artur Belski",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/artur.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/thumb_artur.jpg",
+            "company": "EPAM,Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM,Belarus, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "Keynotes"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T07:30:00.000Z",
+        "title": "Our Journey: Trails and Turbulence",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2001,
+            "name": "Sergei Kazhamiakin",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2001/2018-10-09_14-36-04.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2001/thumb_2018-10-09_14-36-04.png",
+            "company": "ITSupportMe",
+            "job_position": "Head of BA Department",
+            "company_and_title": "ITSupportMe, Head of BA Department"
+          },
+          {
+            "id": 2051,
+            "name": "Andy Lovatt",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2051/2018-10-12_13-07-21.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2051/thumb_2018-10-12_13-07-21.png",
+            "company": "External Market",
+            "job_position": "Director of Product",
+            "company_and_title": "External Market, Director of Product"
+          }
+        ],
+        "topics": [
+          "Customer",
+          "Customer Satisfaction",
+          "Real BA"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T08:30:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "30 мин "
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Architecture Transformation",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 579,
+            "name": "Andrei Kavaleu",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/2018-08-14_16-07-49.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/thumb_2018-08-14_16-07-49.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          },
+          {
+            "id": 2052,
+            "name": "Navinder Marwaha",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2052/2018-10-12_13-09-57.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2052/thumb_2018-10-12_13-09-57.png",
+            "company": "External Market",
+            "job_position": "Distinguished Architect",
+            "company_and_title": "External Market, Distinguished Architect"
+          }
+        ],
+        "topics": [
+          "Architecture"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "Building Trustful Relationship with Client",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2053,
+            "name": "Dave Hulse",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2053/2018-10-12_13-12-13.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2053/thumb_2018-10-12_13-12-13.png",
+            "company": "External Market",
+            "job_position": "Principal Engineer",
+            "company_and_title": "External Market, Principal Engineer"
+          },
+          {
+            "id": 2355,
+            "name": "Dmitry Dolnikov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2355/2018-10-26_14-04-10.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2355/thumb_2018-10-26_14-04-10.png",
+            "company": "EPAM",
+            "job_position": "Delivery Manager",
+            "company_and_title": "EPAM, Delivery Manager"
+          },
+          {
+            "id": 2005,
+            "name": "Aliaksei Antonenko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2005/2018-10-09_15-33-20.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2005/thumb_2018-10-09_15-33-20.png",
+            "company": "EPAM, Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Belarus, Lead Software Engineer"
+          },
+          {
+            "id": 2004,
+            "name": "Yana Larchyk",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2004/2018-10-09_15-33-39.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2004/thumb_2018-10-09_15-33-39.png",
+            "company": "EPAM, Belarus",
+            "job_position": "Business Analyst",
+            "company_and_title": "EPAM, Belarus, Business Analyst"
+          },
+          {
+            "id": 2003,
+            "name": "Oksana Somava",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2003/2018-10-09_15-25-44.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2003/thumb_2018-10-09_15-25-44.png",
+            "company": "EPAM Belarus",
+            "job_position": "Senior Business Analyst",
+            "company_and_title": "EPAM Belarus, Senior Business Analyst"
+          }
+        ],
+        "topics": [
+          "Customer",
+          "Customer Satisfaction",
+          "Real BA"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T11:20:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "TelescopeAI Story",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 27,
+            "name": "Iryna Miranos",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/27/2018-10-12_14-56-40.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/27/thumb_2018-10-12_14-56-40.png",
+            "company": "EPAM",
+            "job_position": "Business Analysis Team Leader",
+            "company_and_title": "EPAM, Business Analysis Team Leader"
+          }
+        ],
+        "topics": [
+          "Telescope"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Silverbullets of JavaScript or why JavaScript is Everywhere",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2070,
+            "name": "Andrei Staravoitau",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2070/2018-10-23_14-48-05.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2070/thumb_2018-10-23_14-48-05.png",
+            "company": "EPAM",
+            "job_position": "Software Engineer",
+            "company_and_title": "EPAM, Software Engineer"
+          }
+        ],
+        "topics": [
+          "Javascript"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T14:00:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "Быстрая разработка корпоративных мобильных приложений на базе SAP Cloud Platform",
+        "is_speech": true,
+        "duration": "30 мин ",
+        "duration_min": 30,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2056,
+            "name": "Дмитрий Фридлянд",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2056/2018-10-15_13-30-35.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2056/thumb_2018-10-15_13-30-35.png",
+            "company": "EPAM",
+            "job_position": "Head of SAP Competency Center",
+            "company_and_title": "EPAM, Head of SAP Competency Center"
+          }
+        ],
+        "topics": [
+          "Applications",
+          "Cloud",
+          "Platform",
+          "SAP"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T14:55:00.000Z",
+        "title": "SAP Cloud Platform как средство быстрых инноваций для S/4HANA",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2107,
+            "name": "Aliaksandr Shchurko",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2107/2018-10-15_13-36-29.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2107/thumb_2018-10-15_13-36-29.png",
+            "company": "EPAM",
+            "job_position": "Software Engineering Manager",
+            "company_and_title": "EPAM, Software Engineering Manager"
+          }
+        ],
+        "topics": [
+          "Cloud",
+          "Platform",
+          "SAP"
+        ],
+        "color": "raspberry"
+      },
+      {
+        "date": "2018-11-10T15:25:00.000Z",
+        "title": "Closing Ceremony",
+        "is_speech": true,
+        "duration": "35 мин ",
+        "duration_min": 35,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 579,
+            "name": "Andrei Kavaleu",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/2018-08-14_16-07-49.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/thumb_2018-08-14_16-07-49.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          }
+        ],
+        "topics": [
+          "Keynotes"
+        ],
+        "color": "raspberry"
+      }
+    ]
+  },
+  {
+    "title": "conduct",
+    "color": "blue",
+    "items": [
+      {
+        "date": "2018-11-10T07:40:00.000Z",
+        "title": "Agile Transformation of Teams",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 889,
+            "name": "Almaz Chanachev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/889/almaz.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/889/thumb_almaz.jpg",
+            "company": "EPAM",
+            "job_position": "Project Manager",
+            "company_and_title": "EPAM, Project Manager"
+          },
+          {
+            "id": 887,
+            "name": "Artur Belski",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/artur.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/thumb_artur.jpg",
+            "company": "EPAM,Belarus",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM,Belarus, Lead Software Engineer"
+          },
+          {
+            "id": 890,
+            "name": "Ivan Spresov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/890/ivan.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/890/thumb_ivan.jpg",
+            "company": "EPAM",
+            "job_position": "Software Engineering Team Leader",
+            "company_and_title": "EPAM, Software Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Agile",
+          "Teams"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T08:40:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Engineering Excellence Pills for Sick Delivery",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2060,
+            "name": "Aliaksandr Dranitsa",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2060/2018-10-12_17-04-34.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2060/thumb_2018-10-12_17-04-34.png",
+            "company": "EPAM",
+            "job_position": "Director, Delivery Management",
+            "company_and_title": "EPAM, Director, Delivery Management"
+          }
+        ],
+        "topics": [
+          "Architecture"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "AEM and Single Page Applications (SPAs)",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2099,
+            "name": "Siarhei Kamenchuk",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2099/2018-10-15_12-13-03.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2099/thumb_2018-10-15_12-13-03.png",
+            "company": "EPAM",
+            "job_position": "Software Engineering Team Leader",
+            "company_and_title": "EPAM, Software Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Applications"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T11:20:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "Новые подходы к управлению проектами на базе ПО SAP",
+        "is_speech": true,
+        "duration": "30 мин ",
+        "duration_min": 30,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2103,
+            "name": "Kristina Koronevich",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2103/2018-10-15_13-22-56.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2103/thumb_2018-10-15_13-22-56.png",
+            "company": "EPAM",
+            "job_position": "Senior Functional Consultant",
+            "company_and_title": "EPAM, Senior Functional Consultant"
+          }
+        ],
+        "topics": [
+          "SAP"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T12:15:00.000Z",
+        "title": "Smart Advertising with IoT Cloud",
+        "is_speech": true,
+        "duration": "25 мин ",
+        "duration_min": 25,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2105,
+            "name": "Anatol Kukel",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2105/2018-10-15_13-26-04.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2105/thumb_2018-10-15_13-26-04.png",
+            "company": "EPAM",
+            "job_position": "Lead Functional Consultant",
+            "company_and_title": "EPAM, Lead Functional Consultant"
+          },
+          {
+            "id": 2106,
+            "name": "Aliaksandr Adzerykha",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2106/2018-10-15_13-27-43.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2106/thumb_2018-10-15_13-27-43.png",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "SAP"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Story Mapping. How to Improve Communications between Business Analyst and Development Team",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 886,
+            "name": "Anastasiya Belskaya",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/886/belskaya.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/886/thumb_belskaya.jpg",
+            "company": "EPAM",
+            "job_position": "Senior Business Analyst",
+            "company_and_title": "EPAM, Senior Business Analyst"
+          },
+          {
+            "id": 1999,
+            "name": "Nikolai Novik",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1999/2018-10-09_14-08-40.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1999/thumb_2018-10-09_14-08-40.png",
+            "company": "EPAM",
+            "job_position": "Lead Business Analyst",
+            "company_and_title": "EPAM, Lead Business Analyst"
+          }
+        ],
+        "topics": [
+          "Communication",
+          "Teams"
+        ],
+        "color": "blue"
+      },
+      {
+        "date": "2018-11-10T14:00:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "Connected Cars Deployment Platform",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2000,
+            "name": "Sergey Prokofiev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2000/2018-10-09_14-20-16.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2000/thumb_2018-10-09_14-20-16.png",
+            "company": "EPAM",
+            "job_position": "Solution Architect",
+            "company_and_title": "EPAM, Solution Architect"
+          }
+        ],
+        "topics": [
+          "Platform"
+        ],
+        "color": "blue"
+      }
+    ]
+  },
+  {
+    "title": "contribute",
+    "color": "orange",
+    "items": [
+      {
+        "date": "2018-11-10T07:40:00.000Z",
+        "title": "Building Microservice-Oriented Applications with .NET Core",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 905,
+            "name": "Aliaksei Harshkalep",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/905/ffo.jpg",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/905/thumb_ffo.jpg",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          ".Net",
+          "Applications",
+          "Microservice"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T08:40:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T09:00:00.000Z",
+        "title": "Reactive Applications with Vert.x.",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2008,
+            "name": "Dzianis Shybeka",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2008/2018-10-12_13-46-13.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2008/thumb_2018-10-12_13-46-13.png",
+            "company": "EPAM",
+            "job_position": "Lead Software Engineer",
+            "company_and_title": "EPAM, Lead Software Engineer"
+          }
+        ],
+        "topics": [
+          "Applications"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T10:20:00.000Z",
+        "title": "HA Patterns and Practices in Azure",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 2905,
+            "name": "Viktar Vedmich",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2905/2018-10-29_17-17-36.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2905/thumb_2018-10-29_17-17-36.png",
+            "company": "EPAM",
+            "job_position": "Systems Engineering Team Leader",
+            "company_and_title": "EPAM, Systems Engineering Team Leader"
+          }
+        ],
+        "topics": [
+          "Cloud"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T11:20:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T11:40:00.000Z",
+        "title": "Principles of Quality in Mobile Solutions",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 1106,
+            "name": "Elvin Rakhmankulov",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1106/2018-10-12_14-57-44.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1106/thumb_2018-10-12_14-57-44.png",
+            "company": "EPAM",
+            "job_position": "Director, Technology Solutions",
+            "company_and_title": "EPAM, Director, Technology Solutions"
+          },
+          {
+            "id": 708,
+            "name": "Viktor Knyshev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/708/Screen_Shot_2018-10-16_at_22.55.58.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/708/thumb_Screen_Shot_2018-10-16_at_22.55.58.png",
+            "company": "EPAM",
+            "job_position": "Software Testing Team Leader",
+            "company_and_title": "EPAM, Software Testing Team Leader"
+          }
+        ],
+        "topics": [
+          "Mobile"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T13:00:00.000Z",
+        "title": "Demystifying Complexity of Data Science",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "English",
+        "speakers": [
+          {
+            "id": 2010,
+            "name": "Vadzim Yermakou,  Ph.D.",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2010/2018-10-12_13-48-59.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2010/thumb_2018-10-12_13-48-59.png",
+            "company": "Godel Technologies, Europe Ltd",
+            "job_position": "Senior Machine Learning Engineer",
+            "company_and_title": "Godel Technologies, Europe Ltd, Senior Machine Learning Engineer"
+          }
+        ],
+        "topics": [
+          "Data Science",
+          "Machine Learning"
+        ],
+        "color": "orange"
+      },
+      {
+        "date": "2018-11-10T14:00:00.000Z",
+        "title": "Кофе-брейк",
+        "is_speech": false,
+        "duration": "20 мин "
+      },
+      {
+        "date": "2018-11-10T14:20:00.000Z",
+        "title": "How to Make Bots on Microsoft Bot Framework",
+        "is_speech": true,
+        "duration": "1 ч ",
+        "duration_min": 60,
+        "language": "Russian",
+        "speakers": [
+          {
+            "id": 1560,
+            "name": "Shukhratbek Mamadaliev",
+            "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1560/2018-10-12_14-05-31.png",
+            "avatar_small": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1560/thumb_2018-10-12_14-05-31.png",
+            "company": "EPAM",
+            "job_position": "Senior Software Engineer",
+            "company_and_title": "EPAM, Senior Software Engineer"
+          }
+        ],
+        "topics": [
+          "Bot",
+          "Framework",
+          "Microsoft"
+        ],
+        "color": "orange"
+      }
+    ]
+  }
+]

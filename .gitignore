@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+coverage/
+.nyc_output/
+myDataBase.json
+.idea/
+# Ignore built ts files
+*.js.map
+package-lock.json
+dist/

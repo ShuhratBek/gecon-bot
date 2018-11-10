@@ -1,0 +1,196 @@
+{
+  "speakers": [
+    {
+      "id": 2106,
+      "name": "Aliaksandr Adzerykha",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2106/2018-10-15_13-27-43.png",
+      "company_and_title": "EPAM, Lead Software Engineer"
+    },
+    {
+      "id": 2060,
+      "name": "Aliaksandr Dranitsa",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2060/2018-10-12_17-04-34.png",
+      "company_and_title": "EPAM, Director, Delivery Management"
+    },
+    {
+      "id": 2107,
+      "name": "Aliaksandr Shchurko",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2107/2018-10-15_13-36-29.png",
+      "company_and_title": "EPAM, Software Engineering Manager"
+    },
+    {
+      "id": 2005,
+      "name": "Aliaksei Antonenko",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2005/2018-10-09_15-33-20.png",
+      "company_and_title": "EPAM, Belarus, Lead Software Engineer"
+    },
+    {
+      "id": 905,
+      "name": "Aliaksei Harshkalep",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/905/ffo.jpg",
+      "company_and_title": "EPAM, Lead Software Engineer"
+    },
+    {
+      "id": 889,
+      "name": "Almaz Chanachev",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/889/almaz.jpg",
+      "company_and_title": "EPAM, Project Manager"
+    },
+    {
+      "id": 886,
+      "name": "Anastasiya Belskaya",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/886/belskaya.jpg",
+      "company_and_title": "EPAM, Senior Business Analyst"
+    },
+    {
+      "id": 2105,
+      "name": "Anatol Kukel",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2105/2018-10-15_13-26-04.png",
+      "company_and_title": "EPAM, Lead Functional Consultant"
+    },
+    {
+      "id": 579,
+      "name": "Andrei Kavaleu",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/579/2018-08-14_16-07-49.png",
+      "company_and_title": "EPAM, Solution Architect"
+    },
+    {
+      "id": 2070,
+      "name": "Andrei Staravoitau",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2070/2018-10-23_14-48-05.png",
+      "company_and_title": "EPAM, Software Engineer"
+    },
+    {
+      "id": 2051,
+      "name": "Andy Lovatt",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2051/2018-10-12_13-07-21.png",
+      "company_and_title": "External Market, Director of Product"
+    },
+    {
+      "id": 887,
+      "name": "Artur Belski",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/887/artur.jpg",
+      "company_and_title": "EPAM,Belarus, Lead Software Engineer"
+    },
+    {
+      "id": 2053,
+      "name": "Dave Hulse",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2053/2018-10-12_13-12-13.png",
+      "company_and_title": "External Market, Principal Engineer"
+    },
+    {
+      "id": 2355,
+      "name": "Dmitry Dolnikov",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2355/2018-10-26_14-04-10.png",
+      "company_and_title": "EPAM, Delivery Manager"
+    },
+    {
+      "id": 2008,
+      "name": "Dzianis Shybeka",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2008/2018-10-12_13-46-13.png",
+      "company_and_title": "EPAM, Lead Software Engineer"
+    },
+    {
+      "id": 1106,
+      "name": "Elvin Rakhmankulov",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1106/2018-10-12_14-57-44.png",
+      "company_and_title": "EPAM, Director, Technology Solutions"
+    },
+    {
+      "id": 27,
+      "name": "Iryna Miranos",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/27/2018-10-12_14-56-40.png",
+      "company_and_title": "EPAM, Business Analysis Team Leader"
+    },
+    {
+      "id": 890,
+      "name": "Ivan Spresov",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/890/ivan.jpg",
+      "company_and_title": "EPAM, Software Engineering Team Leader"
+    },
+    {
+      "id": 2103,
+      "name": "Kristina Koronevich",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2103/2018-10-15_13-22-56.png",
+      "company_and_title": "EPAM, Senior Functional Consultant"
+    },
+    {
+      "id": 2052,
+      "name": "Navinder Marwaha",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2052/2018-10-12_13-09-57.png",
+      "company_and_title": "External Market, Distinguished Architect"
+    },
+    {
+      "id": 1999,
+      "name": "Nikolai Novik",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1999/2018-10-09_14-08-40.png",
+      "company_and_title": "EPAM, Lead Business Analyst"
+    },
+    {
+      "id": 2003,
+      "name": "Oksana Somava",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2003/2018-10-09_15-25-44.png",
+      "company_and_title": "EPAM Belarus, Senior Business Analyst"
+    },
+    {
+      "id": 2001,
+      "name": "Sergei Kazhamiakin",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2001/2018-10-09_14-36-04.png",
+      "company_and_title": "ITSupportMe, Head of BA Department"
+    },
+    {
+      "id": 2788,
+      "name": "Sergey Ageenko",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2788/2018-10-26_13-16-34.png",
+      "company_and_title": "EPAM, Senior Software Engineering Manager"
+    },
+    {
+      "id": 2000,
+      "name": "Sergey Prokofiev",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2000/2018-10-09_14-20-16.png",
+      "company_and_title": "EPAM, Solution Architect"
+    },
+    {
+      "id": 1560,
+      "name": "Shukhratbek Mamadaliev",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/1560/2018-10-12_14-05-31.png",
+      "company_and_title": "EPAM, Senior Software Engineer"
+    },
+    {
+      "id": 2099,
+      "name": "Siarhei Kamenchuk",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2099/2018-10-15_12-13-03.png",
+      "company_and_title": "EPAM, Software Engineering Team Leader"
+    },
+    {
+      "id": 2010,
+      "name": "Vadzim Yermakou,  Ph.D.",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2010/2018-10-12_13-48-59.png",
+      "company_and_title": "Godel Technologies, Europe Ltd, Senior Machine Learning Engineer"
+    },
+    {
+      "id": 2905,
+      "name": "Viktar Vedmich",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2905/2018-10-29_17-17-36.png",
+      "company_and_title": "EPAM, Systems Engineering Team Leader"
+    },
+    {
+      "id": 708,
+      "name": "Viktor Knyshev",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/708/Screen_Shot_2018-10-16_at_22.55.58.png",
+      "company_and_title": "EPAM, Software Testing Team Leader"
+    },
+    {
+      "id": 2004,
+      "name": "Yana Larchyk",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2004/2018-10-09_15-33-39.png",
+      "company_and_title": "EPAM, Belarus, Business Analyst"
+    },
+    {
+      "id": 2056,
+      "name": "Дмитрий Фридлянд",
+      "avatar": "https://d3373sevsv1jc.cloudfront.net/uploads/production/user/avatar/2056/2018-10-15_13-30-35.png",
+      "company_and_title": "EPAM, Head of SAP Competency Center"
+    }
+  ]
+}
